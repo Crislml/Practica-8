@@ -55,6 +55,13 @@ En una idea simplificada se puede decir que el amplificador operacional es un ci
 
 ## *Ecuaciones*
 
+Amplificador inversor
+
+- Vout = -(Rf/Ri)Vin
+
+Amplificador integrador
+
+- d Vout = -(1/RC)Vi(t) dt
 
 ## *PROCEDIMIENTO*
 1. Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
