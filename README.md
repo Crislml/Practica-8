@@ -2,7 +2,7 @@
 # *AMPLIFICADOR OPERACIONAL*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-
+Tras el aprendizaje de una serie de leyes y teoremas repecto al análisis de circuitos eléctricos, ya es posible estudiar otros elementos un tanto más complejos, que son fundamentales dentro de la electrónica. Y con esto nos referimos al amplificador operacional, que es un componente de gran importancia en el diseño de circuitos con mayor nivel de compejidad, para esto se requiere analizar cómo es su comportamiento frente a otros componentes y cómo altera diferentes parámetros eléctricos como, siendo el voltaje el más afectado, seguido de la corriente.
 
 ## *OBJETIVOS*
 # Objetivo general
@@ -98,9 +98,9 @@ Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
 
 
 ## *PREGUNTAS*
-#1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.#
+*1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.*
 
-#2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.#
+*2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.*
 
 Las caracteristicas mas importantes de los amplificadores operacionales a tomar en cuenta son:
 
@@ -124,7 +124,7 @@ Las caracteristicas mas importantes de los amplificadores operacionales a tomar 
 
 -Infinito factor de rechazo a fuente de alimentación (PSRR).
 
-#3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.#
+*3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.*
 
 Unas de las otras aplicaciones mas comunes que hay para esos amplificadores son los siguientes:
 
