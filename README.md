@@ -42,7 +42,7 @@ de onda.
 circuitos indicados en la figura 1.
 3. Simule los circuitos y muestre resultados gráficos.
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/amplificadores.jpg)
 
 Figura 6. Circuitos a ser simulados
 
