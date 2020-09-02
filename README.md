@@ -53,7 +53,7 @@ Como elemento activo, es necesario un suministro de tensión al amplificador ope
 
 En una idea simplificada se puede decir que el amplificador operacional es un circuito integrado cuya principal función es amplificar el voltaje con una entrada de tipo diferencial para tener una salida amplificada y con referencia a tierra. Existen dos configuraciones que puede adoptar un amplificador, lazo abierto y lazo cerrado.
 
-
+## *Ecuaciones*
 
 
 ## *PROCEDIMIENTO*
@@ -68,7 +68,7 @@ circuitos indicados en la figura 1.
 
 Figura 1. Circuitos a ser simulados
 
-## *Ecuaciones*
+
 
 
 
@@ -95,14 +95,24 @@ Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
 
  **EXPLICACIÓN DEL CIRCUITO**
 
-
+En el primer circuito tenemos conectada una fuente de 1V, y tenemos las impedancias de entrada y de salida conectados a un amplificador LM324 con voltajes inversores y no inversores de +14V. En el segundo circuito tenemos los mismos componentes, únicamente cambia la impedancia de retroalimentación ya que es un capacitor. En el último circuito, tenemos algo parecido al primero pero ese tiene otro voltaje de entrada.
 
 ## *PREGUNTAS*
 *1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.*
 
+Entre los principales parámetros que se deben considerar son:
+
+- Valor del voltaje inversor y no inversor.- Es importante a tomar en cuenta estos dos voltajes, ya que de esto dependerá la forma de nuestra señal de salida, ya que dependiendo de esto se observarán diferentes  gráficas respecto al voltaje e función del tiempo.
+
+- Componente de retroalimentación.- Dependiendo de este componente cambiará el amplificador, por ejemplo si fuese una resistencia podriamos hablar de un amplificador inversor, pero si conectamos un capacitor lo que se obtiene es un amplificador integrador.
+
+-Impedancia de entrada.- son los componentes que se oponen al flujo de corriente como las resistencias.
+
+- Tensión de alimentación.- Se refiere a la máxima alimentación que se aplica en los terminales, tomando en cuenta que no exista un flujo excesivo de corriente. 
+
 *2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.*
 
-Las caracteristicas mas importantes de los amplificadores operacionales a tomar en cuenta son:
+Las características mas importantes de los amplificadores operacionales a tomar en cuenta son:
 
 -Infinita ganancia en lazo abierto.
 
@@ -126,7 +136,7 @@ Las caracteristicas mas importantes de los amplificadores operacionales a tomar 
 
 *3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.*
 
-Unas de las otras aplicaciones mas comunes que hay para esos amplificadores son los siguientes:
+Algunas aplicaciones más comunes que hay para esos amplificadores son los siguientes:
 
 -Calculadoras digitales
 
@@ -144,6 +154,7 @@ Unas de las otras aplicaciones mas comunes que hay para esos amplificadores son 
 
 -Rectificadores de precisión
 
+Las aplicaciones más comunes, corresponden a amplificadores sumadores, restadores, diferenciadores, integradores e integradores (que ya fueron usados).
 
 ## *ANÁLISIS DE RESULTADOS*
 Los resultados simulados obtenidos de los diagramas respectivamente son:
@@ -177,7 +188,6 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 | Vout teórico | Vout experimental | %Error |
 | ------------- | ------------- | ------------- |
 |4.3  V | 4.30 V  | 0%  |
-|265.25  mV | 240 mV  | 9.5%  |
 |8.3333  V | 7.81 V  | 6.28%  |
 
 
