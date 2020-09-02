@@ -2,7 +2,7 @@
 # *AMPLIFICADOR OPERACIONAL*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-Tras el aprendizaje de una serie de leyes y teoremas repecto al análisis de circuitos eléctricos, ya es posible estudiar otros elementos un tanto más complejos, que son fundamentales dentro de la electrónica. Y con esto nos referimos al amplificador operacional, que es un componente de gran importancia en el diseño de circuitos con mayor nivel de compejidad, para esto se requiere analizar cómo es su comportamiento frente a otros componentes y cómo altera diferentes parámetros eléctricos como, siendo el voltaje el más afectado, seguido de la corriente.
+Tras el aprendizaje de una serie de leyes y teoremas respecto al análisis de circuitos eléctricos, ya es posible estudiar otros elementos un tanto más complejos, que son fundamentales dentro de la electrónica. Y con esto nos referimos al amplificador operacional, que es un componente de gran importancia en el diseño de circuitos con mayor nivel de compejidad, para esto se requiere analizar cómo es su comportamiento frente a otros componentes y cómo altera diferentes parámetros eléctricos como, siendo el voltaje el más afectado, seguido de la corriente.
 
 ## *OBJETIVOS*
 # Objetivo general
@@ -154,6 +154,8 @@ Los resultados simulados obtenidos de los diagramas respectivamente son:
 
 Figura 5. Voltaje de entrada y salida de amplificador inversor.
 
+Podemos observar que en este circuito se ha conectado la entrada no inversora a tierra, y también se conecta una resistencia, mientras que el voltaje inversor se ha conectado con una resistencia de retroalimentación Rf. Estos son los requisitos para tener un amplificador inversor, el comportamiento se relaciona directamente con su nombre, ya que este amplificador precisamente se encarga de mostrar una salida de señal inversa a la de entrada, que en nuestro caso es mayor y ha aumentado nuestro voltaje a un factor de 4.3.
+
 *Resultado del diagrama #2*
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%202.png)
@@ -167,6 +169,8 @@ En el comportamiento de un circuito con amplificador integrador, se observa en l
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203...png)
 
 Figura 7. Voltaje de entrada y salida de amplificador inversor.
+
+En esta gráfica también tenemos un amplificador inversor por lo que tiene el mismo análisis que el primer diagrama, con la diferencia de que hay dos señales que corresponden a las fuentes de entrada, con ayuda de cálculos se obtiene que este voltaje de entrada tiene un valor de 1.7857V y en el voltaje de salida tenemos 8.33V, por lo que concluimos que el voltaje se ha amplificado a un valor de 4.67V.
 
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
