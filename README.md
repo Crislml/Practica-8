@@ -71,6 +71,15 @@ Figura 3. Circuito implementado con osciloscopio.
 
 Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
 
+ **EXPLICACIÓN DEL CIRCUITO**
+
+
+
+## *PREGUNTAS*
+
+
+
+## *ANÁLISIS DE RESULTADOS*
 Los resultados simulados obtenidos de los diagramas respectivamente son:
 
 *Resultado del diagrama #1*
@@ -90,19 +99,6 @@ Figura 6. Voltaje de entrada y salida.
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
 
 Figura 7. Voltaje de entrada y salida.
-
-
- **EXPLICACIÓN DEL CIRCUITO**
-
-
-
-## *PREGUNTAS*
-
-
-
-## *ANÁLISIS DE RESULTADOS*
-
-
 
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
