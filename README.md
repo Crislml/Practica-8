@@ -164,7 +164,7 @@ En el comportamiento de un circuito con amplificador integrador, se observa en l
 
 *Resultado del diagrama #3*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203...png)
 
 Figura 7. Voltaje de entrada y salida de amplificador inversor.
 
