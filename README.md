@@ -44,17 +44,53 @@ circuitos indicados en la figura 1.
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/amplificadores.jpg)
 
-Figura 6. Circuitos a ser simulados
+Figura 1. Circuitos a ser simulados
 
 ## *Ecuaciones*
 
 
 
 ## *DIAGRAMA*
+En esta práctica tenemos tres circuitos a simular por lo tanto serán tres diagramas:
 
-![alt text]()
+*Diagrama #1*
 
-Figura 6. Circuito implementado con osciloscopio.
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%201.png)
+
+Figura 2. Circuito implementado con osciloscopio.
+
+*Diagrama #2*
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%202.png)
+
+Figura 3. Circuito implementado con osciloscopio.
+
+*Diagrama #3*
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%203.png)
+
+Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
+
+Los resultados simulados obtenidos de los diagramas respectivamente son:
+
+*Resultado del diagrama #1*
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%201.png)
+
+Figura 5. Voltaje de entrada y salida.
+
+*Resultado del diagrama #2*
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%202.png)
+
+Figura 6. Voltaje de entrada y salida.
+
+*Resultado del diagrama #3*
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
+
+Figura 7. Voltaje de entrada y salida.
+
 
  **EXPLICACIÓN DEL CIRCUITO**
 
@@ -65,6 +101,9 @@ Figura 6. Circuito implementado con osciloscopio.
 
 
 ## *ANÁLISIS DE RESULTADOS*
+
+
+
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
 | V. osciloscopio | V. multímetro |
