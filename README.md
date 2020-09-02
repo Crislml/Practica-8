@@ -83,7 +83,7 @@ Figura 2. Circuito implementado con osciloscopio.
 
 *Diagrama #2*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%203.png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%202.png)
 
 Figura 3. Circuito implementado con osciloscopio.
 
@@ -158,7 +158,7 @@ Podemos observar que en este circuito se ha conectado la entrada no inversora a 
 
 *Resultado del diagrama #2*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%202.png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203...png)
 
 Figura 6. Amplificador integrador.
 
@@ -166,7 +166,7 @@ En el comportamiento de un circuito con amplificador integrador, se observa en l
 
 *Resultado del diagrama #3*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203...png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
 
 Figura 7. Voltaje de entrada y salida de amplificador inversor.
 
