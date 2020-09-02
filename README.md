@@ -112,9 +112,9 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 
 ## *CONCLUSIONES*
-1.- Esta práctica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores, que se pueden considerar ya no existe la máxima precisión al usar un osciloscopio.
+1. Esta práctica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores, que se pueden considerar ya no existe la máxima precisión al usar un osciloscopio.
 
-2.- En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador.
+2. En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador.
 
 
 
