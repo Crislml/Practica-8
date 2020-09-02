@@ -152,19 +152,21 @@ Los resultados simulados obtenidos de los diagramas respectivamente son:
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%201.png)
 
-Figura 5. Voltaje de entrada y salida.
+Figura 5. Voltaje de entrada y salida de amplificador inversor.
 
 *Resultado del diagrama #2*
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%202.png)
 
-Figura 6. Voltaje de entrada y salida.
+Figura 6. Amplificador integrador.
+
+En el comportamiento de un circuito con amplificador integrador, se observa en la gráfica que a la salida hay una onda cuadrada bipolar la cual al pasar a través del amplificador operacional se obtiene en la salida una onda integral, esto se debe a que principalmente la onda rectangular se constituye por valores positivos y negativos y como se conoce, al integrar una constante lo que se obtiene es una recta con su respectiva pendiente, que dependerá de las contantes positivas y negativas que se tenga y también del factor que multiplica a toda la integral, el signo negativo en la integral nos indica que está en fase contraria respecto a la señal de entrada.
 
 *Resultado del diagrama #3*
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
 
-Figura 7. Voltaje de entrada y salida.
+Figura 7. Voltaje de entrada y salida de amplificador inversor.
 
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
