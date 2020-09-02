@@ -102,20 +102,17 @@ Figura 7. Voltaje de entrada y salida.
 
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
 
-| V. osciloscopio | V. multímetro |
-| ------------- | ------------- |
-|4.8225  V | 4.865 V  |
+| Vout teórico | Vout experimental | %Error |
+| ------------- | ------------- | ------------- |
+|4.3  V | 4.30 V  | 0%  |
+|265.25  mV | 240 mV  | 9.5%  |
+|8.3333  V | 7.81 V  | 6.28%  |
 
-Error relativo = |(Valor teórico - Valor experimental)/ Valor teórico | x 100%
-
-Error relativo = |(4.865 - 4.8225)/ 4.865 | x 100%
-
-Error relativo = 0.87 %
 
 
 
 ## *CONCLUSIONES*
-1.- Esta practica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores que pueden ser despreciables.
+1.- Esta práctica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores, que se pueden considerar ya no existe la máxima precisión al usar un osciloscopio.
 
 2.- En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador.
 
