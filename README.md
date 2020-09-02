@@ -158,7 +158,7 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 ## *CONCLUSIONES*
 1. Esta práctica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores, que se pueden considerar ya no existe la máxima precisión al usar un osciloscopio.
 
-2. En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador.
+2. En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador, se observa lo mismo en los los otros dos circuitos.
 
 
 
@@ -174,7 +174,7 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 ## *CRONOGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Cronograma/Cronograma.jpg)
 
 ## *BIBLIOGRAFÍA*
 
