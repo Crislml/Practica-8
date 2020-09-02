@@ -45,6 +45,7 @@ Los amplificadores operacionales se venden en paquetes de circuitos integrados d
 4. El suministro de potencia positivo V+, terminal 7.
 5. El suministro de potencia negativo V-, terminal 4.
 
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/MT1.PNG)
 
 ## *PROCEDIMIENTO*
 1. Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
