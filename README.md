@@ -140,6 +140,6 @@ Lifeder, Onda senoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
 
 ## *ANEXOS*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Calculos_voltaje.jpg)
 
-Figura 7.  Calculos de distintos parámetros eléctricos.
+Figura 7.  Calculos los voltajes de salida para los 3 distintos circuitos.
