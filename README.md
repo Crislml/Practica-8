@@ -1,5 +1,5 @@
 # Práctica 8
-# *CARACTERÍSTICA DE LA ONDA SENOIDAL*
+# *AMPLIFICADOR OPERACIONAL*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
 
@@ -35,8 +35,16 @@ Tabla 1. Materiales
 
 
 ## *PROCEDIMIENTO*
+1. Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
+simultáneamente las señales de entrada y salida en un osciloscopio. Dibuje o capture las formas
+de onda.
+2. Determine y analice la relación entre las señales de entrada y salida en cada uno de los
+circuitos indicados en la figura 1.
+3. Simule los circuitos y muestre resultados gráficos.
 
+![alt text]()
 
+Figura 6. Circuitos a ser simulados
 
 ## *Ecuaciones*
 
