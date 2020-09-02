@@ -76,9 +76,9 @@ Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
 
 
 ## *PREGUNTAS*
-*1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.*
+#1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.#
 
-*2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.*
+#2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.#
 
 Las caracteristicas mas importantes de los amplificadores operacionales a tomar en cuenta son:
 
@@ -102,7 +102,7 @@ Las caracteristicas mas importantes de los amplificadores operacionales a tomar 
 
 -Infinito factor de rechazo a fuente de alimentación (PSRR).
 
-*3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.*
+#3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.#
 
 Unas de las otras aplicaciones mas comunes que hay para esos amplificadores son los siguientes:
 
