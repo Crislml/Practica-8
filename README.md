@@ -51,7 +51,7 @@ Como elemento activo, es necesario un suministro de tensión al amplificador ope
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/MT2.PNG)
 
-Aunque, para mayor simplicidad, en diagramas del circuito del amplificador operacional suelen ignorarse las fuentes de suministro, las corrientes de éstas no deben pasarse por alto. Por efecto de la LCK,
+En una idea simplificada se puede decir que el amplificador operacional es un circuito integrado cuya principal función es amplificar el voltaje con una entrada de tipo diferencial para tener una salida amplificada y con referencia a tierra. Existen dos configuraciones que puede adoptar un amplificador, lazo abierto y lazo cerrado.
 
 
 
