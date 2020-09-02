@@ -31,7 +31,19 @@
 Tabla 1. Materiales
 ## *MARCO TEÓRICO*
 
+Un amplificador operacional es un dispositivo amplificador electrónico de alta ganancia acoplado en corriente continua que tiene dos entradas y una salida. En esta configuración, la salida del dispositivo es, generalmente, de cientos de miles de veces mayor que la diferencia de potencial entre sus entradas.
 
+En si, El amplificador operacional es una unidad electrónica que se comporta como una fuente de tensión controlada por tensión.
+
+Un amplificador operacional es un elemento de circuitos activo diseñado para realizar operaciones matemáticas de suma, resta, multiplicación, división, diferenciación e integración.
+
+Los amplificadores operacionales se venden en paquetes de circuitos integrados de diversas presentaciones. En la figura 5.1 aparece un empaque usual de amplificador operacional. Uno habitual es el empaque en línea doble (dual in-line package, DIP por sus siglas en inglés) de ocho terminales que se muestra en la figura. La terminal 8 no se usa, y las terminales 1 y 5 son de escaso interés para el objetivo de esta sección. Las cinco terminales importantes son:
+
+1. La entrada inversora, terminal 2.
+2. La entrada no inversora, terminal 3.
+3. La salida, terminal 6.
+4. El suministro de potencia positivo V+, terminal 7.
+5. El suministro de potencia negativo V-, terminal 4.
 
 
 ## *PROCEDIMIENTO*
