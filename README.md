@@ -83,13 +83,13 @@ Figura 2. Circuito implementado con osciloscopio.
 
 *Diagrama #2*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%202.png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%203.png)
 
 Figura 3. Circuito implementado con osciloscopio.
 
 *Diagrama #3*
 
-![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Diagrama%20simulado%203.png)
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/Resultado%203.png)
 
 Figura 4. Circuito con dos fuentes e implementado con osciloscopio.
 
