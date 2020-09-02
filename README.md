@@ -47,6 +47,15 @@ Los amplificadores operacionales se venden en paquetes de circuitos integrados d
 
 ![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/MT1.PNG)
 
+Como elemento activo, es necesario un suministro de tensión al amplificador operacional, como se muestra del modo común en la figura. 
+
+![alt text](https://github.com/Crislml/Practica-8/blob/master/Img/MT2.PNG)
+
+Aunque, para mayor simplicidad, en diagramas del circuito del amplificador operacional suelen ignorarse las fuentes de suministro, las corrientes de éstas no deben pasarse por alto. Por efecto de la LCK,
+
+
+
+
 ## *PROCEDIMIENTO*
 1. Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
 simultáneamente las señales de entrada y salida en un osciloscopio. Dibuje o capture las formas
