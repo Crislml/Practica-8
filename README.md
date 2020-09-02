@@ -115,13 +115,16 @@ Error relativo = 0.87 %
 
 
 ## *CONCLUSIONES*
+1.- Esta practica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores que pueden ser despreciables.
+
+2.- En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador.
 
 
 
 ## *RECOMENDACIONES*
 1. Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como es una onda senoidal.
 
-2. En el momento de obtener los datos sobre los voltajes, no hay que confundir el  voltaje rms con el voltaje Pico.
+2. En el momento de obtener los datos sobre los voltajes, en nuestro generador aumentamos el doble del voltaje para obtener una mejor visualización del mismo transformando el voltaje pico a pico a una simple lectura del voltaje pico, para no tener confusiones al momento de tomar los datos.
 
 3. Tener cuidado al momento de aproximar los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error más alto de lo esperado.
 
