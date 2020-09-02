@@ -186,8 +186,11 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 ## *CONCLUSIONES*
 1. Esta práctica fue realizada con éxito ya que se pudo comprobar mediante la fórmula del amplificador inverso el resultado obtenido del osciloscopio de cada circuito simulado obteniendo pequeños porcentajes de errores, que se pueden considerar ya no existe la máxima precisión al usar un osciloscopio.
 
-2. En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador, se observa lo mismo en los los otros dos circuitos.
+2. En el primer circuito, tuvimos un aumento del voltaje a un 430%, es decir que se aumento 4,3 veces cumpliendo la función de nuestro amplificador y se comprueba la formula deducida con respecto al calculo del voltaje de entrada en un amplificador inversor e integrador.
 
+3. Se determinó que tanto el primer circuito como el tercer circuito funcionan como amplificadores inversores, ya que como se observó en la gráfica, ambos nos dan una señal de salida inversa a la de entrada que es mayor al valor del voltaje inicial.
+
+4. Encontramos un circuito con un amplificador integrado, ya que al tener conectado un capacitor lo que se observa es una señal de entrada, mientras que en la salida vemos una señal ya integrada, razón por la cual las señales se inclinan y nos dan este tipo de gráfica, la cual está en fase contraria respecto a la señal de entrada.
 
 
 ## *RECOMENDACIONES*
